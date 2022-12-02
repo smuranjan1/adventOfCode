@@ -3,11 +3,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class dayOne {
-    public static void main(String[] args) throws Exception 
-    {
-        partOne("C:\\Users\\smyan\\Documents\\code\\first\\lib\\dayOne.txt");
-        partTwo("C:\\Users\\smyan\\Documents\\code\\first\\lib\\dayOne.txt");
-    }
 
     public static void partOne(String filePath) throws Exception
     {
