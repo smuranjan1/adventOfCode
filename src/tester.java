@@ -5,5 +5,7 @@ public class tester {
         // dayOne.partTwo("C:\\Users\\smyan\\Documents\\github\\adventOfCode\\lib\\dayOne.txt");
         // dayTwo.partOne("C:\\Users\\smyan\\OneDrive\\Documents\\github\\adventOfCode\\lib\\dayTwo.txt");
         // dayTwo.partTwo("C:\\Users\\smyan\\OneDrive\\Documents\\github\\adventOfCode\\lib\\dayTwo.txt");
+        // dayThree.partOne("C:\\Users\\smyan\\OneDrive\\Documents\\github\\adventOfCode\\lib\\dayThree.txt");
+        // dayThree.partTwo("C:\\Users\\smyan\\OneDrive\\Documents\\github\\adventOfCode\\lib\\dayThree.txt");
     }
 }
